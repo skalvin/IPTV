@@ -36,9 +36,6 @@ https://av.alarabiya.net/alarabiapublish/alhadath.smil/alhadath_360p_chunks.m3u8
 #EXTINF:-1 group-title="Drama",KSA: MBC Drama Plus+
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 
-#EXTINF:-1 group-title="Kids",QA: Jeem
-https://tv.ipslow.com/tv182_www.elahmad.com_jeem/tracks-v1a1/mono.m3u8?token=4aead51325cf6b160dbe0f36ec79a6bad76bac83-ba3ff07f033f2ff1fa078cbccd60f0eb-1674318458-1674307658
-
 #EXTINF:-1 group-title="Kids",QA: Baraem
 http://136.243.106.46:8080/live/teleg2/2824745242/1723.ts?token=TUcNB0MKRllAVVQBAAFRAAZXBQVaAgNUXQRVBwFUCVYPBwAFUVJRV1ZGTkZHTEEBVV5vXlwXXwZTAAdKQRNCVkQ6DAISWEZaUFRQUBYUERBdXlUVAgRTD1QBDF5UVQUfFBUMAhJYRlJWU1dRFhQRAUxHVUVWVAloAFdCDwADEwlYEAkKHEALDT0ABwlVVldGDhEAFRQXDEQUEA5EKghSXHgAEUZ0AxACQikDClVfVglRXUQXS1QJFUgQVg8XFFBHU0dfRAZUVFVASEAHW01dEEZKEg0aeScVSBBRHhcDX0BfCgtECkAQEEBIQA1HZ0EBR0dCUllYAEVGCBZXQUoTXlcdOgVfDAoGARALC1pLEV4WAQAHGhlHWgtcXRIMFG5DXwFHXBJTXVpQUkAZ
 
@@ -69,9 +66,6 @@ https://stream.skynewsarabia.com/hls/sna_480.m3u8
 #EXTINF:-1 group-title="News",UK: BBC Arabic
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
 
-#EXTINF:-1 group-title="News",DE: DW-Arabic
-https://hls.youtb.workers.dev/channel/UC30ditU5JI16o5NbFsHde_Q.m3u8
-
 #EXTINF:-1 group-title="News",RU: RT-Arabic
 https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 
@@ -89,9 +83,6 @@ https://live-hls-web-ajd.getaj.net/AJD/04.m3u8
 
 #EXTINF:-1 group-title="Kids",LB: TAHA Kids Channel
 https://media2.livaat.com/TAHA-TV/index.m3u8
-
-#EXTINF:-1 group-title="Finance",UAE: CNBC Arabia
-https://stream-03.dc3.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW0PpHd48aKWGeFpYRoQyiThsiEEABNxP18jzghLtZW6L)/dm/3/x7zjeht/s/live-2.m3u8
 
 #EXTINF:-1 group-title="Drama",SY: Syria-TV
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_480p_chunks.m3u8
