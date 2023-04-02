@@ -160,29 +160,30 @@ https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabi
 #EXTINF:-1 group-title="News",RU: RT-Arabic
 https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 
-#EXTINF:-1 group-title="Drama",KSA: MBC Drama Plus+
+#EXTINF:-1 group-title="MBC",KSA: MBC Drama Plus+
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 
-#EXTINF:-1 group-title="Drama",MBC: MBC-1
+#EXTINF:-1 group-title="MBC",MBC: MBC-1
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 
-#EXTINF:-1 group-title="Drama",MBC: MBC-3
+#EXTINF:-1 group-title="MBC",MBC: MBC-3
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
 
-#EXTINF:-1 group-title="Drama",MBC: MBC-4
+#EXTINF:-1 group-title="MBC",MBC: MBC-4
 https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 
-#EXTINF:-1 group-title="Drama",MBC: MBC-5
+#EXTINF:-1 group-title="MBC",MBC: MBC-5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
 
-#EXTINF:-1 group-title="MBC",EGY: MBC-MASR
+#EXTINF:-1 group-title="MBC",MBC: MBC-MASR
 https://shls-masr-ak.akamaized.net/out/v1/b7093401da27496797a8949de23f4578/index_2.m3u8
 
-#EXTINF:-1 group-title="MBC",EGY: MBC-MASR2
+#EXTINF:-1 group-title="MBC",MBC: MBC-MASR2
 https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_2.m3u8
 
-#EXTINF:-1 group-title="mbc",MBC: MBC Max
-https://iptv.ipslow.com/tv166_www.elahmad.com_mbc_max/tracks-v1a1/mono.m3u8?token=5b16f50d173970ed8a7d7fe5670af8c7aae12a4e-61505e2fcbba60aa52b77d4156b1d039-1670504222-1670493422
+#EXTINF:-1 group-title="MBC",MBC: MBC Max
+http://carmeltv.live:80/EXCHANGEmaster/yNZWsNC2kGKk/31933
+
 
 
 #EXTINF:-1 group-title="Kids",LB: TAHA Kids Channel
