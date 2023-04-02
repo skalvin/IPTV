@@ -50,7 +50,7 @@ https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabi
 https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 
 
-#EXTINF:-1 group-title="MBC",KSA: MBC Drama Plus+
+#EXTINF:-1 group-title="MBC",MBC: MBC Drama Plus+
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 
 #EXTINF:-1 group-title="MBC",MBC: MBC-1
@@ -103,13 +103,13 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Docu",QA: Al-Jazeera-Documentary
 https://live-hls-web-ajd.getaj.net/AJD/04.m3u8
 
-#EXTINF:-1 group-title="Sport",Discovery: AR-Discovery HD
+#EXTINF:-1 group-title="Docu",Discovery: AR-Discovery HD
 http://carmeltv.live:80/EXCHANGEmaster/yNZWsNC2kGKk/43314
 
-#EXTINF:-1 group-title="Sport",Discovery: AR-Discovery-Science HD
+#EXTINF:-1 group-title="Docu",Discovery: AR-Discovery-Science HD
 http://carmeltv.live:80/EXCHANGEmaster/yNZWsNC2kGKk/43315
 
-#EXTINF:-1 group-title="Sport",Discovery: AR-Discovery-iD HD
+#EXTINF:-1 group-title="Docu",Discovery: AR-Discovery-iD HD
 http://carmeltv.live:80/EXCHANGEmaster/yNZWsNC2kGKk/43313
 
 
