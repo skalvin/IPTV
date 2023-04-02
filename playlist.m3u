@@ -13,7 +13,7 @@ https://manar.live/iptv/tracks-v2a1/mono.m3u8
 https://live.alittihad.tv:444/ittihad/chunklist_w73421776.m3u8
 
 #EXTINF:-1 group-title="Lebanese Local TV",LB: LBCI
-https://tv.ipslow.com/tv191_www.elahmad.com_lbci/tracks-v1a1/mono.m3u8?token=14599fe4969bb50801780fd3ec4a017fbf0a6b59-2e593a87cf0d3e9ab28809a2984e5e52-1680455705-1680444905
+http://136.243.88.20:8080/live/teleg2/2824745242/1896.ts?token=TUcNB0MKRllAVAdRAQpVXFYGCA4IUwMBUgpWV1teUldTXQZSUVpXBlpGTkZHTEEBVV5vXlwXXwZcCwJKQRNCVkQ6DAISWEZaUFRQUBYUERBdXlUVAgRTD1QGAFNTXwYfFBUMAhJYRldRXFtGGBpWHEBWQllZWTpTAURdBQZEC11DCQlKEg0KPAYBDwVaXBFeFgMSGxpcFkdGCBYvDQVefVMRRSJRFgVDLwUMBVNdXgFaRxBEWVlHG0ZQXRIRB0VWFF9HVARVVUFORgELQVZHFk0RChV0d0cbRldMEgYIQlpZC0dcEhYXQU5GCxdrSlYXQEFVVlVQFxVeEAVET0RcUk46BgleDAEAFg0NCkcaCUYGAwAVFBcIWApbQAkROUFaUkdfRANXXVRAGQ==
 
 #EXTINF:-1 group-title="Lebanese Local TV",LB: LBC
 https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/playlist.m3u8
