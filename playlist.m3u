@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Lebanese Local TV",LB: Al Jadeed
-http://carmeltv.live:80/EXCHANGEmaster/yNZWsNC2kGKk/52960
+http://iptv.ndasat.xyz:88/live/228584403986534/228584403986534/545.m3u
 
 #EXTINF:-1 group-title="Lebanese Local TV",LB: LBCI
-http://carmeltv.live:80/EXCHANGEmaster/yNZWsNC2kGKk/52984
+http://iptv.ndasat.xyz:88/live/228584403986534/228584403986534/549.m3u
 
 #EXTINF:-1 group-title="Lebanese Local TV",LB: MTV Lebanon
 http://iptv.ndasat.xyz:88/live/228584403986534/228584403986534/546.m3u
