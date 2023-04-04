@@ -103,8 +103,8 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Docu",QA: Al-Jazeera-Documentary
 https://live-hls-web-ajd.getaj.net/AJD/04.m3u8
 
-#EXTINF:-1 group-title="Docu",Discovery: AR-Discovery HD
-http://carmeltv.live:80/EXCHANGEmaster/yNZWsNC2kGKk/43314
+#EXTINF:-1 group-title="Docu",Discovery: Discovery HD
+http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/1894
 
 #EXTINF:-1 group-title="Docu",Discovery: AR-Discovery-Science HD
 http://carmeltv.live:80/EXCHANGEmaster/yNZWsNC2kGKk/43315
