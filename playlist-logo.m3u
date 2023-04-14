@@ -22,7 +22,7 @@ https://live.alittihad.tv:444/ittihad/chunklist_w73421776.m3u8
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b2000000_t64NDgwcA==.m3u8
 
 #EXTINF:-1 group-title="Lebanese Local TV" tvg-logo="https://i.ibb.co/wpBSy48/al-alam.png", Al-Aalam-News
-http://carmeltv.live:80/EXCHANGEmaster/yNZWsNC2kGKk/53029
+https://live2.alalam.ir/alalam.m3u8
 
 #EXTINF:-1 group-title="Lebanese Local TV" tvg-logo="https://i.ibb.co/Mcb5kkq/nbn.png", NBN
 https://live-server-2.splitstream.io/37823898-78bc-4e88-b14b-6eb04526e72d/index.m3u8
@@ -48,6 +48,9 @@ https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabi
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.ibb.co/KXMDjnS/rt-ar.png", RT-Arabic
 https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://i.ibb.co/GR4Bpbs/trt.png", TRT-Arabic
+https://tv-trtarabi.live.trt.com.tr/master.m3u8
 
 
 #EXTINF:-1 group-title="MBC" tvg-logo="https://i.ibb.co/drNVJPD/mbc-drama.png", MBC Drama Plus+
@@ -104,14 +107,14 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/L9Dj39q/jscdoc.png", Al-Jazeera-Documentary
 https://live-hls-web-ajd.getaj.net/AJD/04.m3u8
 
-#EXTINF:-1 group-title="Docu" tvg-logo="https://i.ibb.co/pJW2JLf/discovery.png", AR-Discovery HD
-http://carmeltv.live:80/EXCHANGEmaster/yNZWsNC2kGKk/43314
+#EXTINF:-1 group-title="Docu" tvg-logo="https://i.ibb.co/pJW2JLf/discovery.png", Discovery HD
+https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Channel.m3u8
 
-#EXTINF:-1 group-title="Docu" tvg-logo="https://i.ibb.co/ZXbWdTN/discovery-SC.png", AR-Discovery-Science HD
-http://carmeltv.live:80/EXCHANGEmaster/yNZWsNC2kGKk/43315
+#EXTINF:-1 group-title="Docu" tvg-logo="https://i.ibb.co/ZXbWdTN/discovery-SC.png", Discovery-Science HD
+https://livetvpv.lucygibson2.repl.co/Livetv/Discovery+/api/Discovery_Science.m3u8
 
-#EXTINF:-1 group-title="Docu" tvg-logo="https://i.ibb.co/hHgPbrs/discovery-ID.png", AR-Discovery-iD HD
-http://carmeltv.live:80/EXCHANGEmaster/yNZWsNC2kGKk/43313
+#EXTINF:-1 group-title="Docu" tvg-logo="https://i.ibb.co/8Mmk3QN/turbo.png", Discovery Turbo HD
+https://kusnadipepenk.github.io/ntn/disturbo.m3u8
 
 
 #EXTINF:-1 group-title="Syria" tvg-logo="https://i.ibb.co/W2xVK5H/syriatv.png", Syria-TV
@@ -150,17 +153,6 @@ http://109.202.99.203:8080/D2lWIJoM81/PaemWJL9gE/315
 
 
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.ibb.co/RbZ9bF8/alkas1.png", AlKass 1 HD
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1ctfsd/master720.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.ibb.co/N356Tgq/eurosport.png", EuroSport HD
+https://livetvpv.lucygibson2.repl.co/Livetv/Discovery+/api/Eurosport.m3u8
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.ibb.co/h7B1F77/ssc1.png", SSC Sport 1 HD
-http://carmeltv.live:80/EXCHANGEmaster/yNZWsNC2kGKk/54799
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.ibb.co/P99zp3j/ssc5.png", SSC Sport 5 HD
-http://carmeltv.live:80/EXCHANGEmaster/yNZWsNC2kGKk/54803
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.ibb.co/PgFdgqj/sscextra1.png", SSC Sport EXTRA 1 HD
-http://carmeltv.live:80/EXCHANGEmaster/yNZWsNC2kGKk/54804
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.ibb.co/Qr26NwY/sscextra5.png", SSC Sport EXTRA 5 HD
-http://carmeltv.live:80/EXCHANGEmaster/yNZWsNC2kGKk/54803
