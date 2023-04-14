@@ -124,17 +124,30 @@ http://carmeltv.live:80/EXCHANGEmaster/yNZWsNC2kGKk/53002
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/m3u8/SDI1-720p.m3u8.vod.m3u8
 
 #EXTINF:-1 group-title="Syria" tvg-logo="https://i.ibb.co/6JJSymX/lanaplus.png", Lana-TV+
-http://carmeltv.live:80/EXCHANGEmaster/yNZWsNC2kGKk/53006
+https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8
 
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.ibb.co/vssYJG9/beinpremium1.png", beIN Sport 1-Premium HD
-http://carmeltv.live:80/EXCHANGEmaster/yNZWsNC2kGKk/54027
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.ibb.co/7Vdkcm0/be-IN-SPORTS1.png", beIN Sport 1 HD
+http://109.202.99.203:8080/D2lWIJoM81/PaemWJL9gE/322
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.ibb.co/NxkKsGB/beinpremium2.png", beIN Sport 2-Premium HD
-http://carmeltv.live:80/EXCHANGEmaster/yNZWsNC2kGKk/54028
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.ibb.co/XZ8dSYm/be-IN-SPORTS2.png", beIN Sport 2 HD
+http://109.202.99.203:8080/D2lWIJoM81/PaemWJL9gE/320
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.ibb.co/6Rd6yQJ/beinport4.png", beIN Sport 4 HD
-http://carmeltv.live:80/EXCHANGEmaster/yNZWsNC2kGKk/54056
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.ibb.co/yhhwjw7/be-IN-SPORTS3.png", beIN Sport 3 HD
+http://109.202.99.203:8080/D2lWIJoM81/PaemWJL9gE/319
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.ibb.co/gT838WS/be-IN-SPORTS4.png", beIN Sport 4 HD
+http://109.202.99.203:8080/D2lWIJoM81/PaemWJL9gE/318
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.ibb.co/sJWf7gZ/be-IN-SPORTS5.png", beIN Sport 5 HD
+http://109.202.99.203:8080/D2lWIJoM81/PaemWJL9gE/317
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.ibb.co/GQjjFMH/be-IN-SPORTS6.png", beIN Sport 6 HD
+http://109.202.99.203:8080/D2lWIJoM81/PaemWJL9gE/316
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.ibb.co/wS49QP3/be-IN-SPORTS7.png", beIN Sport 7 HD
+http://109.202.99.203:8080/D2lWIJoM81/PaemWJL9gE/315
+
 
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://i.ibb.co/RbZ9bF8/alkas1.png", AlKass 1 HD
