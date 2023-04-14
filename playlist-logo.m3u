@@ -1,33 +1,33 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Lebanese Local TV" tvg-logo="https://i.ibb.co/Wvgdr4H/jadeed.png", Al-Jadeed
+#EXTINF:-1 group-title="Lebanese TV" tvg-logo="https://i.ibb.co/Wvgdr4H/jadeed.png", Al-Jadeed
 http://iptv.ndasat.xyz:88/live/228584403986534/228584403986534/545.m3u
 
-#EXTINF:-1 group-title="Lebanese Local TV" tvg-logo="https://i.ibb.co/ZzH88bY/lbci.png", LBCI
+#EXTINF:-1 group-title="Lebanese TV" tvg-logo="https://i.ibb.co/ZzH88bY/lbci.png", LBCI
 http://iptv.ndasat.xyz:88/live/228584403986534/228584403986534/549.m3u
 
-#EXTINF:-1 group-title="Lebanese Local TV" tvg-logo="https://i.ibb.co/2W74HS0/mtv.png", MTV-Lebanon
+#EXTINF:-1 group-title="Lebanese TV" tvg-logo="https://i.ibb.co/2W74HS0/mtv.png", MTV-Lebanon
 http://iptv.ndasat.xyz:88/live/228584403986534/228584403986534/546.m3u
 
-#EXTINF:-1 group-title="Lebanese Local TV" tvg-logo="https://i.ibb.co/RYr3W6q/lbcrotana.png", LBC-Rotana
+#EXTINF:-1 group-title="Lebanese TV" tvg-logo="https://i.ibb.co/RYr3W6q/lbcrotana.png", LBC-Rotana
 https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Lebanese Local TV" tvg-logo="https://i.ibb.co/5BCbrjy/manar.png", Manar-TV
+#EXTINF:-1 group-title="Lebanese TVV" tvg-logo="https://i.ibb.co/5BCbrjy/manar.png", Manar-TV
 https://manar.live/iptv/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="Lebanese Local TV" tvg-logo="https://i.ibb.co/Q6H5Tmg/etihad.png", Etihad
+#EXTINF:-1 group-title="Lebanese TV" tvg-logo="https://i.ibb.co/Q6H5Tmg/etihad.png", Etihad
 https://live.alittihad.tv:444/ittihad/chunklist_w73421776.m3u8
 
-#EXTINF:-1 group-title="Lebanese Local TV" tvg-logo="https://i.ibb.co/s2VjfnR/mayadeen.png", Al-Mayadeen
+#EXTINF:-1 group-title="Lebanese TV" tvg-logo="https://i.ibb.co/s2VjfnR/mayadeen.png", Al-Mayadeen
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b2000000_t64NDgwcA==.m3u8
 
-#EXTINF:-1 group-title="Lebanese Local TV" tvg-logo="https://i.ibb.co/wpBSy48/al-alam.png", Al-Aalam-News
+#EXTINF:-1 group-title="Lebanese TV" tvg-logo="https://i.ibb.co/wpBSy48/al-alam.png", Al-Aalam-News
 https://live2.alalam.ir/alalam.m3u8
 
-#EXTINF:-1 group-title="Lebanese Local TV" tvg-logo="https://i.ibb.co/Mcb5kkq/nbn.png", NBN
+#EXTINF:-1 group-title="Lebanese TV" tvg-logo="https://i.ibb.co/Mcb5kkq/nbn.png", NBN
 https://live-server-2.splitstream.io/37823898-78bc-4e88-b14b-6eb04526e72d/index.m3u8
 
-#EXTINF:-1 group-title="Lebanese Local TV" tvg-logo="https://i.ibb.co/d41445Y/otv.png", OTV
+#EXTINF:-1 group-title="Lebanese TV" tvg-logo="https://i.ibb.co/d41445Y/otv.png", OTV
 http://62.182.82.104/OTV/index.m3u8?token=test
 
 
@@ -118,6 +118,9 @@ https://livetvpv.lucygibson2.repl.co/Livetv/Discovery+/api/Discovery_Science.m3u
 
 #EXTINF:-1 group-title="Docu" tvg-logo="https://i.ibb.co/8Mmk3QN/turbo.png", Discovery Turbo HD
 https://kusnadipepenk.github.io/ntn/disturbo.m3u8
+
+#EXTINF:-1 group-title="Docu" tvg-logo="https://i.ibb.co/pXcDfK4/travelxp.png", TravelXP
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Syria" tvg-logo="https://i.ibb.co/W2xVK5H/syriatv.png", Syria-TV
