@@ -61,7 +61,7 @@ https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 
 #EXTINF:-1 group-title="MBC" tvg-logo="https://i.ibb.co/xgrfgjk/mbc2-s.png", MBC-2
-http://carmeltv.live:80/EXCHANGEmaster/yNZWsNC2kGKk/31925
+https://cdn341.yallahshooty.live:3709/live/aflam4youuhjfjfflive.m3u8
 
 #EXTINF:-1 group-title="MBC" tvg-logo="https://i.ibb.co/5sW83hY/mbc3.png", MBC-3
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
@@ -74,7 +74,7 @@ https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/in
 
 
 #EXTINF:-1 group-title="MBC" tvg-logo="https://i.ibb.co/qRqTDjD/mbcaction.png", MBC-Action
-http://carmeltv.live:80/EXCHANGEmaster/yNZWsNC2kGKk/31932
+https://cdn341.yallahshooty.live:3588/live/mbcactionlive.m3u8
 
 #EXTINF:-1 group-title="MBC" tvg-logo="https://i.ibb.co/3Bq9ntM/mbcMAX.png", MBC-Max
 http://carmeltv.live:80/EXCHANGEmaster/yNZWsNC2kGKk/31933
@@ -128,6 +128,9 @@ https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/m3u8/SDI1-720p.
 
 #EXTINF:-1 group-title="Syria" tvg-logo="https://i.ibb.co/6JJSymX/lanaplus.png", Lana-TV+
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8
+
+#EXTINF:-1 group-title="UAE" tvg-logo="https://i.ibb.co/bPB3FGz/samadubai.png", Sama Dubai
+https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://i.ibb.co/7Vdkcm0/be-IN-SPORTS1.png", beIN Sport 1 HD
