@@ -52,6 +52,9 @@ https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.ibb.co/GR4Bpbs/trt.png", TRT-Arabic
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
 
+#EXTINF:-1 group-title="News" tvg-logo="https://i.ibb.co/mSYDgDh/alaraby.png", AlAraby-TV
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
+
 
 #EXTINF:-1 group-title="MBC" tvg-logo="https://i.ibb.co/drNVJPD/mbc-drama.png", MBC Drama Plus+
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
