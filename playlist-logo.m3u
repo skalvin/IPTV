@@ -55,6 +55,9 @@ https://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.ibb.co/mSYDgDh/alaraby.png", AlAraby-TV
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
 
+#EXTINF:-1 group-title="News" tvg-logo="https://i.ibb.co/k4Xf9s1/dw.png", DW-TV-AR
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+
 
 #EXTINF:-1 group-title="MBC" tvg-logo="https://i.ibb.co/drNVJPD/mbc-drama.png", MBC Drama Plus+
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
