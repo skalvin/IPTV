@@ -1,16 +1,19 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Lebanese TV" tvg-logo="https://i.ibb.co/Wvgdr4H/jadeed.png", Al-Jadeed
-http://iptv.ndasat.xyz:88/live/228584403986534/228584403986534/545.m3u
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7504
 
 #EXTINF:-1 group-title="Lebanese TV" tvg-logo="https://i.ibb.co/ZzH88bY/lbci.png", LBCI
-http://iptv.ndasat.xyz:88/live/228584403986534/228584403986534/549.m3u
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7502
 
 #EXTINF:-1 group-title="Lebanese TV" tvg-logo="https://i.ibb.co/2W74HS0/mtv.png", MTV-Lebanon
-http://iptv.ndasat.xyz:88/live/228584403986534/228584403986534/546.m3u
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7506
 
 #EXTINF:-1 group-title="Lebanese TV" tvg-logo="https://i.ibb.co/RYr3W6q/lbcrotana.png", LBC-Rotana
 https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Lebanese TV" tvg-logo="https://i.ibb.co/ZzH88bY/lbci.png", LDC
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7508
 
 #EXTINF:-1 group-title="Lebanese TV" tvg-logo="https://i.ibb.co/5BCbrjy/manar.png", Manar-TV
 https://manar.live/iptv/tracks-v2a1/mono.m3u8
@@ -22,7 +25,7 @@ https://live.alittihad.tv:444/ittihad/chunklist_w73421776.m3u8
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b2000000_t64NDgwcA==.m3u8
 
 #EXTINF:-1 group-title="Lebanese TV" tvg-logo="https://i.ibb.co/wpBSy48/al-alam.png", Al-Aalam-News
-https://live2.alalam.ir/alalam.m3u8
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7505
 
 #EXTINF:-1 group-title="Lebanese TV" tvg-logo="https://i.ibb.co/Mcb5kkq/nbn.png", NBN
 https://live-server-2.splitstream.io/37823898-78bc-4e88-b14b-6eb04526e72d/index.m3u8
@@ -78,7 +81,6 @@ https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index
 #EXTINF:-1 group-title="MBC" tvg-logo="https://i.ibb.co/ynD1jLx/mbc5.png", MBC-5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
 
-
 #EXTINF:-1 group-title="MBC" tvg-logo="https://i.ibb.co/qRqTDjD/mbcaction.png", MBC-Action
 https://cdn341.yallahshooty.live:3588/live/mbcactionlive.m3u8
 
@@ -99,10 +101,10 @@ https://media2.livaat.com/TAHA-TV/index.m3u8
 https://shls-masr2-ak.akamaized.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/hFhdm0b/jeem.png", Jeem
-http://carmeltv.live:80/EXCHANGEmaster/yNZWsNC2kGKk/31476
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/2739
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/fHYXF5z/baraem.png", Baraem
-http://carmeltv.live:80/EXCHANGEmaster/yNZWsNC2kGKk/31475
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/2740
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/Ws5SRMh/spacetoon.png", Spacetoon
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
@@ -143,28 +145,292 @@ https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playl
 
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://i.ibb.co/7Vdkcm0/be-IN-SPORTS1.png", beIN Sport 1 HD
-http://109.202.99.203:8080/D2lWIJoM81/PaemWJL9gE/322
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/131
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://i.ibb.co/XZ8dSYm/be-IN-SPORTS2.png", beIN Sport 2 HD
-http://109.202.99.203:8080/D2lWIJoM81/PaemWJL9gE/320
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/132
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://i.ibb.co/yhhwjw7/be-IN-SPORTS3.png", beIN Sport 3 HD
-http://109.202.99.203:8080/D2lWIJoM81/PaemWJL9gE/319
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/137
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://i.ibb.co/gT838WS/be-IN-SPORTS4.png", beIN Sport 4 HD
-http://109.202.99.203:8080/D2lWIJoM81/PaemWJL9gE/318
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/138
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://i.ibb.co/sJWf7gZ/be-IN-SPORTS5.png", beIN Sport 5 HD
-http://109.202.99.203:8080/D2lWIJoM81/PaemWJL9gE/317
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/139
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://i.ibb.co/GQjjFMH/be-IN-SPORTS6.png", beIN Sport 6 HD
-http://109.202.99.203:8080/D2lWIJoM81/PaemWJL9gE/316
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/140
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://i.ibb.co/wS49QP3/be-IN-SPORTS7.png", beIN Sport 7 HD
-http://109.202.99.203:8080/D2lWIJoM81/PaemWJL9gE/315
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/141
 
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/141
+#EXTINF:-1,||AR.BEIN|| BEIN SPORTS 8 HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/142
+#EXTINF:-1,||AR.BEIN|| BEIN SPORTS 9 HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/143
+#EXTINF:-1,||AR.BEIN|| BEIN SPORTS 10 HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/144
+#EXTINF:-1,||AR.BEIN|| BEIN SPORTS 11 HD
 
+#EXTINF:-1,||AR.BEIN|| BEIN MOVIES 1 HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/2683
+#EXTINF:-1, ||AR.BEIN|| BEIN MOVIES 2 HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/2684
+#EXTINF:-1, ||AR.BEIN|| BEIN MOVIES 3 HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/2685
+#EXTINF:-1,||AR.BEIN|| BEIN SERIES 1
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/2687
+#EXTINF:-1,||AR.BEIN|| BEIN SERIES 2 
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/2688
+#EXTINF:-1,||AR.BEIN|| BEIN FOX REWAYAT
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/2690
+#EXTINF:-1, ||AR.BEIN|| BEIN FATAFEAT
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/2691
+#EXTINF:-1,||AR.BEIN|| BEIN GOURMET
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/2692
+#EXTINF:-1, ||AR.BEIN|| BEIN GULI
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/2693
+#EXTINF:-1,||AR.BEIN|| BEIN SPORTS NEWS HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/5275
+
+#EXTINF:-1,||AR.OSN|| ORBIT CINEMA 1
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/272
+#EXTINF:-1,||AR.OSN|| ORBIT CINEMA 2
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/273
+#EXTINF:-1,||AR.OSN|| OSN YAHALA CINEMA
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/840
+#EXTINF:-1,||AR.OSN|| OSN YAHALA HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/842
+#EXTINF:-1,||AR.OSN|| ALYOUM HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/845
+#EXTINF:-1,||AR.OSN|| CINEMA 1
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/846
+#EXTINF:-1,||AR.OSN|| CINEMA 2
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/847
+#EXTINF:-1,||AR.OSN|| MUSIC NOW HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/848
+#EXTINF:-1,||AR.OSN|| OSN MOVIES HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/849
+#EXTINF:-1,||AR.OSN|| OSN MOVIES FIRST 1 HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/851
+#EXTINF:-1,||AR.OSN|| OSN SERIES HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/852
+#EXTINF:-1,||AR.OSN|| OSN MOVIES FAMILY HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/853
+#EXTINF:-1,||AR.OSN|| OSN COMEDY HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/854
+#EXTINF:-1,||AR.OSN|| ANIMAL PLANET HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/856
+#EXTINF:-1,||AR.OSN|| PARAMOUNT
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/857
+#EXTINF:-1,||AR.OSN|| OSN ENIGMA HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/859
+#EXTINF:-1,||AR.OSN|| NAT GEO WILD HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/860
+#EXTINF:-1,||AR.OSN|| NICKLODEON HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/862
+#EXTINF:-1,||AR.OSN|| SYFY HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/863
+#EXTINF:-1,||AR.OSN|| CRIME & INVESTIGATION  HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/867
+#EXTINF:-1,||AR.OSN|| OSN MOVIES FIRST 2 HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/868
+#EXTINF:-1,||AR.OSN|| ALFA ORBIT CINEMA 1 HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/869
+#EXTINF:-1,||AR.OSN|| OSN SERIES1 HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/871
+#EXTINF:-1,||AR.OSN|| OSN SERIES 2 HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/872
+#EXTINF:-1,||AR.OSN|| OSN CINEMA 1 HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7590
+#EXTINF:-1,||AR.OSN|| OSN FANN HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7592
+#EXTINF:-1,||AR.OSN|| OSN ALKASS 4 HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7597
+#EXTINF:-1,||AR.OSN|| OSN ALPHA MUSALSALAT HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7599
+#EXTINF:-1,||AR.OSN|| OSN AMC MOVIES HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7602
+#EXTINF:-1,||AR.OSN|| OSN ART AFLAM 1 HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7605
+#EXTINF:-1,||AR.OSN|| OSN ART HEKAYAT 1 HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7609
+#EXTINF:-1,||AR.OSN|| OSN ART HEKAYAT 2 HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7610
+#EXTINF:-1,||AR.OSN|| OSN CINEMA 2 HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7625
+#EXTINF:-1,||AR.OSN|| OSN COMEDY CENTRAL HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7628
+#EXTINF:-1,||AR.OSN|| OSN DISNEY XD HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7637
+#EXTINF:-1,||AR.OSN|| OSN INVESTIGATION DISCOVERY HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7655
+#EXTINF:-1,||AR.OSN|| OSN KIDS HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7658
+#EXTINF:-1,||AR.OSN|| OSN MOVIES ACTION 2 HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7667
+#EXTINF:-1,||AR.OSN|| OSN MOVIES ACTION HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7669
+#EXTINF:-1,||AR.OSN|| OSN MOVIES BOX OFFICE 1 HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7670
+#EXTINF:-1,||AR.OSN|| OSN MOVIES BOX OFFICE 2 HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7671
+#EXTINF:-1,||AR.OSN|| OSN MOVIES BOX OFFICE 3 HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7673
+#EXTINF:-1,||AR.OSN|| OSN MOVIES COMEDY HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7676
+#EXTINF:-1,||AR.OSN|| OSN MOVIES DRAMA 1 HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7677
+#EXTINF:-1,||AR.OSN|| OSN MOVIES DRAMA 1 HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7679
+#EXTINF:-1,||AR.OSN|| OSN  ENIGMA HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7681
+#EXTINF:-1,||AR.OSN|| OSN MOVIES FAMILY HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7682
+#EXTINF:-1,||AR.OSN|| OSN MOVIES FESTIVAL HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7683
+#EXTINF:-1,||AR.OSN|| OSN MOVIES FIRST +2 HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7685
+#EXTINF:-1,||AR.OSN|| OSN MOVIES FIRST HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7687
+#EXTINF:-1,||AR.OSN|| OSN MTV LIVE HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7696
+#EXTINF:-1,||AR.OSN|| OSN SERIES FIRST HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7715
+#EXTINF:-1,||AR.OSN|| OSN TLC HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7724
+#EXTINF:-1,||AR.OSN|| OSN YAHALA CINEMA HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7730
+#EXTINF:-1,||AR.OSN|| OSN YAHALA AL OULA HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7735
+#EXTINF:-1,||AR.OSN|| OSN YAHALA HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7737
+#EXTINF:-1,||AR.OSN|| OSN ALFA ALYOUM HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7739
+#EXTINF:-1,||AR.OSN|| OSN ALFA FANN HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7742
+#EXTINF:-1,||AR.OSN|| OSN ANIMAL PLANET HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7743
+#EXTINF:-1,||AR.OSN|| OSN DISCOVERY SCIENCE HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7745
+#EXTINF:-1,||AR.OSN|| OSN FIGHT HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7747
+#EXTINF:-1,||AR.OSN|| OSN MOVIES  ACTION HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7750
+#EXTINF:-1,||AR.OSN|| OSN MOVIES COMEDY+2 HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7755
+#EXTINF:-1,||AR.OSN|| OSN MOVIES DISNEY HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7756
+#EXTINF:-1,||AR.OSN|| OSN MOVIES DRAMA HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7757
+#EXTINF:-1,||AR.OSN|| OSN MOVIES FESTIVAL HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7758
+#EXTINF:-1,||AR.OSN|| OSN MOVIES HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7761
+#EXTINF:-1,||AR.OSN|| OSN MOVIES THRILLER HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7764
+#EXTINF:-1,||AR.OSN|| OSN MOVIES THRILLER 2 HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7765
+#EXTINF:-1,||AR.OSN|| OSN NAT GEO WILD HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7766
+#EXTINF:-1,||AR.OSN|| OSN NATIONAL GEO HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7767
+#EXTINF:-1,||AR.OSN|| OSN NATIONAL GEO PEOPLE HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7768
+#EXTINF:-1,||AR.OSN|| OSN ON DEMAND 1 HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7769
+#EXTINF:-1,||AR.OSN|| OSN ON DEMAND 2 HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7770
+#EXTINF:-1,||AR.OSN|| OSN ON DEMAND 3 HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7771
+#EXTINF:-1,||AR.OSN|| OSN ON DEMAND EXTRA 1 HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7772
+#EXTINF:-1,||AR.OSN|| OSN ON DEMAND EXTRA 2 HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7773
+#EXTINF:-1,||AR.OSN|| OSN ON DEMAND EXTRA 3 HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7774
+#EXTINF:-1,||AR.OSN|| OSN OUTDOOR HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7775
+#EXTINF:-1,||AR.OSN|| OSN STAR MOVIES HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7778
+#EXTINF:-1,||AR.OSN|| OSN STAR MOVIES INDIA HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7779
+#EXTINF:-1,||AR.OSN|| OSN STAR WORLD HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7780
+#EXTINF:-1,||AR.OSN|| OSN YAHALA CINEMA HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7784
+
+#EXTINF:-1,||AR.BEIN|| BEIN SPORTS 1 PREMIUM FHD+
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/61143
+#EXTINF:-1,||AR.BEIN|| BEIN SPORTS 2 PREMIUM FHD+
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/61144
+#EXTINF:-1,||AR.BEIN|| BEIN SPORTS 3 PREMIUM FHD+
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/61145
+#EXTINF:-1,||AR.KSA|| SSC SPORT 1 HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/64189
+#EXTINF:-1,||AR.KSA|| SSC SPORT 2 HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/64190
+#EXTINF:-1,||AR.KSA|| SSC SPORT 3 HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/64191
+#EXTINF:-1,||AR.KSA|| SSC SPORT 4 HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/64192
+#EXTINF:-1,||AR.KSA|| SSC SPORT 5 HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/64193
+#EXTINF:-1,||AR.KSA|| SSC SPORT 7 HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/66306
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://i.ibb.co/N356Tgq/eurosport.png", EuroSport HD
 https://livetvpv.lucygibson2.repl.co/Livetv/Discovery+/api/Eurosport.m3u8
 
+
+#EXTINF:-1 group-title="Shahid" tvg-logo="https://i.ibb.co/ynD1jLx/mbc5.png", Shahid-VIP-Action
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/795
+
+#EXTINF:-1 group-title="Shahid" tvg-logo="https://i.ibb.co/ynD1jLx/mbc5.png", Shahid-VIP
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/797
+
+#EXTINF:-1 group-title="Shahid" tvg-logo="https://i.ibb.co/ynD1jLx/mbc5.png", Shahid-VIP-Horror2
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/798
+
+#EXTINF:-1 group-title="Shahid" tvg-logo="https://i.ibb.co/ynD1jLx/mbc5.png", Shahid-VIP-CRIME
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/805
+
+
+#EXTINF:-1,||AR.UAE|| ABU DHABI SPORTS 1 HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/2674
+#EXTINF:-1,||AR.UAE|| ABU DHABI SPORTS 2 HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/2675
+#EXTINF:-1, ||AR.UAE|| ABU DHABI SPORTS 4 HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/2676
+#EXTINF:-1,||AR.UAE|| DUBAI SPORTS 
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/2677
+#EXTINF:-1,||AR.UAE|| AL KASS SPORTS 1
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/2678
+#EXTINF:-1,||AR.UAE|| AL KASS SPORTS 2
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/2679
+#EXTINF:-1, ||AR.UAE|| AL KASS SPORTS 3
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/2680
+#EXTINF:-1,||AR.UAE|| AL KASS SPORTS 4
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/2681
+#EXTINF:-1,||AR.UAE|| AL KASS SPORTS 5
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/2682
+#EXTINF:-1,||AR.KSA|| ROTANA AFLAM HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/2700
+#EXTINF:-1,||AR.KSA|| ROTANA COMEDY HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/2701
+#EXTINF:-1,||AR.KSA|| ROTANA CINEMA HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/2702
+#EXTINF:-1,||AR.KSA|| ROTANA MASRIYA HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/2703
+#EXTINF:-1,||AR.KSA|| ROTANA MUSIC HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/2704
+#EXTINF:-1,||AR.KSA|| ROTANA HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/2705
+#EXTINF:-1,||AR.KSA|| ROTANA CLASSIC HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/2706
+#EXTINF:-1,||AR.KSA|| ROTANA CLIP
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/2707
+#EXTINF:-1,||AR.KSA||  ROTANA KIDS HD
+http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/2708
