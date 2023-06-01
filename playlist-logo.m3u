@@ -12,9 +12,6 @@ http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7506
 #EXTINF:-1 group-title="Lebanese TV" tvg-logo="https://i.ibb.co/RYr3W6q/lbcrotana.png", LBC-Rotana
 https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Lebanese TV" tvg-logo="https://i.ibb.co/ZzH88bY/lbci.png", LDC
-http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/7508
-
 #EXTINF:-1 group-title="Lebanese TV" tvg-logo="https://i.ibb.co/5BCbrjy/manar.png", Manar-TV
 https://manar.live/iptv/tracks-v2a1/mono.m3u8
 
